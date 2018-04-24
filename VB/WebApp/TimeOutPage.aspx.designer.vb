@@ -8,21 +8,18 @@
 ' </auto-generated>
 '------------------------------------------------------------------------------
 
-
-Imports Microsoft.VisualBasic
-Imports System
 Namespace WebApp
 
 
-	Partial Public Class TimeOutPage
+    Partial Public Class TimeOutPage
 
-		''' <summary>
-		''' form1 control.
-		''' </summary>
-		''' <remarks>
-		''' Auto-generated field.
-		''' To modify move field declaration from designer file to code-behind file.
-		''' </remarks>
-		Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
-	End Class
+        ''' <summary>
+        ''' form1 control.
+        ''' </summary>
+        ''' <remarks>
+        ''' Auto-generated field.
+        ''' To modify move field declaration from designer file to code-behind file.
+        ''' </remarks>
+        Protected form1 As Global.System.Web.UI.HtmlControls.HtmlForm
+    End Class
 End Namespace

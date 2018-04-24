@@ -1,8 +1,8 @@
-﻿Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 
 Namespace WebApp
-	Partial Public Class TimeOutPage
-		Inherits System.Web.UI.Page
-	End Class
+    Partial Public Class TimeOutPage
+        Inherits System.Web.UI.Page
+
+    End Class
 End Namespace
